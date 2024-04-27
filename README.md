@@ -33,6 +33,6 @@ Blood Bank Management System is a php based web project with both admin and user
    
    Enter Below Credentials to login to the Admin Panel.<br>
    <b> Username = </b> InfinityAbir<br>
-   <b>Password = </b> 3896
+   <b>Password = </b> 0607
    
 
