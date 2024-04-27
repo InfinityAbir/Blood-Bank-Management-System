@@ -1,10 +1,6 @@
 # Blood-Bank-Management-System
 In this project there are an example of Blood Management System in Database Management System.
 
-# Blood-Bank-Management-System
-This is a php base "Blood Bank Management System" project.\
-# Blood-Bank-Management-System
-
 Blood Bank Donation System is a php based web project with both admin and user layouts.
 
 # Installation
